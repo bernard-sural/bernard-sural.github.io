@@ -41,4 +41,4 @@ Po poprawce - wc nie jest opadnięte, krawędź miski ściśle przylega do ścia
 17.  Malowanie wykonane nieumiejętnie/niestarannie — widać grubsze plamy farby, miejsca, gdzie wałek się nie kręcił, linie krawędzi wałka etc.
 18.  Gładzie nie zostały oszlifowane poprawnie. Żeby była jasność — w tym momencie odnoszę się tylko do ścian, które stawiał pan z GK od zera i miejsc, gdzie łatane były dziury po nowej instalacji elektrycznej. Zdecydowanie najgorzej jest na ścianach łazienki. Problem dotyczy też sufitu — wieczorem dokładnie widać, którędy biegną wiązki przewodów elektrycznych. Zdjęcia na kolejnej stronie.
 
-![](images/image9.jpg)![](images/image13.jpg)![](images/image6.jpg)![](images/image8.jpg)![](images/image10.jpg)![](images/image2.jpg)[](images/sufit.jpg)
+![](images/image9.jpg)![](images/g7.JPG)![](images/image13.jpg)![](images/image6.jpg)![](images/image8.jpg)![](images/image10.jpg)![](images/image2.jpg)[](images/sufit.jpg)
