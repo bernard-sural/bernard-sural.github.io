@@ -35,10 +35,8 @@ Po poprawce - wc nie jest opadnięte, krawędź miski ściśle przylega do ścia
 14.  Opaska świetlika w kuchni jest zawalona akrylem. Prosiłem pana, żeby poprawić drzwi, ale przemilczał pan fakt, że świetlik też pan zniszczył.
 15.  Narożniki są miejscami zbyt płytko osadzone - na mniej niż 1 mm.
 16.  Gładź przy opasce drzwi łazienkowych pękła samoistnie wzdłuż łączenia płyt jeszcze przed montażem drzwi.
-
 ![](images/image4.jpg)
+17.  Malowanie wykonane nieumiejętnie/niestarannie — widać grubsze plamy farby, miejsca, gdzie wałek się nie kręcił, linie krawędzi wałka, niedomalowane miejsca etc.  ![](images/image2.jpg)![](images/sufit.jpeg)
+19.  Gładzie nie zostały zgodnie ze sztuką. Żeby była jasność — w tym momencie odnoszę się tylko do ścian, które stawiał pan z GK od zera i miejsc, gdzie łatane były dziury po nowej instalacji elektrycznej. Zdecydowanie najgorzej jest na ścianach łazienki. Problem dotyczy też sufitu — wieczorem dokładnie widać, którędy biegną wiązki przewodów elektrycznych. Zdjęcia na kolejnej stronie.
 
-17.  Malowanie wykonane nieumiejętnie/niestarannie — widać grubsze plamy farby, miejsca, gdzie wałek się nie kręcił, linie krawędzi wałka etc.
-18.  Gładzie nie zostały oszlifowane poprawnie. Żeby była jasność — w tym momencie odnoszę się tylko do ścian, które stawiał pan z GK od zera i miejsc, gdzie łatane były dziury po nowej instalacji elektrycznej. Zdecydowanie najgorzej jest na ścianach łazienki. Problem dotyczy też sufitu — wieczorem dokładnie widać, którędy biegną wiązki przewodów elektrycznych. Zdjęcia na kolejnej stronie.
-
-![](images/image9.jpg)![](images/g7.JPG)![](images/image13.jpg)![](images/image6.jpg)![](images/image8.jpg)![](images/image10.jpg)![](images/image2.jpg)[](images/sufit.jpg)
+![](images/image9.jpg)![](images/g7.JPG)![](images/image13.jpg)![](images/image6.jpg)![](images/image8.jpg)![](images/image10.jpg)![]
