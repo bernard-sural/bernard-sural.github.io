@@ -20,9 +20,10 @@ Po poprawce - wc nie jest opadnięte, krawędź miski ściśle przylega do ścia
 3.  Fugi w cokołach miejscami są nieumyte (płytki zabrudzone fugą), miejscami ich brakuje (zwłaszcza w rogach), w 2 miejscach było jej zbyt mało i wypadła dosłownie po przetarciu szmatką.
 
 5.  Fugi gorsecików i cokołów nie zostały należycie umyte po układaniu. Zgodnie z [normą UNI-11493](https://www.google.com/url?q=https://bit.ly/437I2Tw&sa=D&source=editors&ust=1740829289042013&usg=AOvVaw2l1Jywu9Nr8XiOwvNSgs04) za mycie fug i okładzin po fugowaniu odpowiada osoba układająca okładziny.
-6.  Gorseciki nie zostały przycięte na brzegach, tak jak było to ustalone w projekcie, do którego miał pan dostęp jeszcze przed podpisaniem umowy.
-7.  4 gniazdka są na złej wysokości — niezgodnie z projektem.
-8.  Cokoły nie zostały przyklejone na prawidłowej wysokości. Pomijając krzywą wylewkę, same cokoły nie trzymają jednej wysokości. Różnice dochodziły do 2 cm. Przez to nie można było estetycznie wylać mikrocementu.
+  ![](images/fugi1.jpg)![](images/fugi2.jpg)
+7.  Gorseciki nie zostały przycięte na brzegach, tak jak było to ustalone w projekcie, do którego miał pan dostęp jeszcze przed podpisaniem umowy.
+8.  4 gniazdka są na złej wysokości — niezgodnie z projektem.
+9.  Cokoły nie zostały przyklejone na prawidłowej wysokości. Pomijając krzywą wylewkę, same cokoły nie trzymają jednej wysokości. Różnice dochodziły do 2 cm. Przez to nie można było estetycznie wylać mikrocementu.
 
 ![](images/image3.jpg)![](images/image5.jpg)
 
