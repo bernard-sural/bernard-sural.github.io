@@ -22,7 +22,7 @@ Po poprawce - wc nie jest opadnięte, krawędź miski ściśle przylega do ścia
    * Fugi gorsecików i cokołów nie zostały należycie umyte po układaniu. Zgodnie z [normą UNI-11493](https://www.google.com/url?q=https://bit.ly/437I2Tw&sa=D&source=editors&ust=1740829289042013&usg=AOvVaw2l1Jywu9Nr8XiOwvNSgs04) za mycie fug i okładzin po fugowaniu odpowiada osoba układająca okładziny.
       ![](images/fugi1.jpg)![](images/fugi2.jpg)Gorseciki nie zostały przycięte na brzegach, tak jak było to ustalone w projekcie, do którego miał pan dostęp jeszcze przed podpisaniem umowy. 
 1. Cztery gniazdka są na złej wysokości — niezgodnie z projektem.
-1. Cokoły nie zostały przyklejone na prawidłowej wysokości. Pomijając krzywą wylewkę, same cokoły nie trzymają jednej wysokości. Różnice dochodziły do 2 cm. Przez to nie można było estetycznie wylać mikrocementu.
+1. Cokoły nie zostały przyklejone na prawidłowej wysokości. Pomijając krzywą wylewkę (wg umowy podłoga miała być wyrównana), same cokoły nie trzymają jednej wysokości. Różnice dochodz do 2 cm. Przez to nie można estetycznie wylać mikrocementu.
 ![](images/image3.jpg)![](images/image5.jpg)
 1. Kabina prysznicowa została zamontowana nieprawidłowo. Część wad odkryłem jeszcze w grudniu (odwrotnie przykręcona gałka, zła szerokość). W trakcie użytkowania wyszło, że kabina cieknie. Uszczelki dolne były zamontowane odwrotnie i źle przycięte. Jeden profil nie był zasilikonowany.
    Końcówka listwy dolnej była ucięta nożykiem/złamana: w trakcie montażu profilu kabiny nie została wyjęta zaślepka, w której miejsce wchodzi języczek końcówki listwy. Po założeniu profilu i zasilikonowaniu nie da się już wyjąć tej zaślepki bez dużej ilości pracy, więc zdecydował się pan uciąć języczek. Niestety bez niego kabina cieknie. Dowiedziałem się, że to częsty błąd montażystów, którzy nie czytają uważnie instrukcji.
@@ -32,8 +32,8 @@ Po poprawce - wc nie jest opadnięte, krawędź miski ściśle przylega do ścia
 1. 3 października kupił pan za 196,50 zł dwie płyty GK Norgips Neoflex przeznaczone do gięcia. Nie zostały one ostatecznie użyte. Co się z nimi stało? Czy zostały przywłaszczone?
 1. Opaska świetlika w kuchni jest zawalona akrylem. Prosiłem pana, żeby poprawić drzwi, ale przemilczał pan fakt, że świetlik też pan zniszczył.
 1. Narożniki są miejscami zbyt płytko osadzone - na mniej niż 1 mm.
-1. Gładź przy opasce drzwi łazienkowych pękła samoistnie wzdłuż łączenia płyt jeszcze przed montażem drzwi.
-    ![](images/image4.jpg)
+1. Gładź przy opasce drzwi łazienkowych pękła samoistnie wzdłuż łączenia płyt jeszcze przed montażem drzwi. Ściana w łazience przeciwległa do wejścia również pękła po około 2 miesiącach.![](images/image4.jpg) ![](images/pekniecie.jpeg)
+
 1. Malowanie wykonane nieumiejętnie/niestarannie — widać grubsze plamy farby, miejsca, gdzie wałek się nie kręcił, linie krawędzi wałka, niedomalowane miejsca etc.  ![](images/image2.jpg)![](images/sufit.jpeg)
 1. Gładzie nie zostały zgodnie ze sztuką. Żeby była jasność — w tym momencie odnoszę się tylko do ścian, które stawiał pan z GK od zera i miejsc, gdzie łatane były dziury po nowej instalacji elektrycznej. Zdecydowanie najgorzej jest na ścianach łazienki. Problem dotyczy też sufitu — wieczorem dokładnie widać, którędy biegną wiązki przewodów elektrycznych. Zdjęcia na kolejnej stronie.
 ![](images/image9.jpg)![](images/g7.JPG)![](images/image13.jpg)![](images/image6.jpg)![](images/image8.jpg)![](images/image10.jpg)![]
