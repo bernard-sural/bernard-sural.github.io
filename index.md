@@ -7,7 +7,8 @@ ul. Ząbkowska 4/15, 03-735 Warszawa
 # Reklamacja
 Poniżej lista niedoróbek i błędów wykonawczych, które popełnił Pan w trakcie remontu mieszkania przy ulicy Fabrycznej 25/19 w Warszawie w ramach umowy o remont z dnia 2024-09-24. 
 
-W ciągu 3 dni proszę odnieść się do każdego punktu i zaproponować rozwiązanie, oraz wskazać do kiedy najpóźniej zostanie wykonana poprawka. Propozycje rozwiązań proszę przesłać na adres email: szym.mysiak@gmail.com lub w formie sms na nr 793 767 070 lub listownie na adres: Szymon Mysiak, ul. Fabryczna 25/19, 00-446 Warszawa.
+W ciągu 3 dni proszę odnieść się do każdego punktu i zaproponować rozwiązanie, oraz wskazać do kiedy najpóźniej zostanie wykonana poprawka. Propozycje rozwiązań proszę przesłać na adres email: szym.mysiak@gmail.com lub w formie sms na nr 793 767 070.
+Na życzenie mogę udostępnić zdjęcia w wysokiej rozdzielczości - przesłać je mailem. 
 
 Zaznaczam, że błędy wykonawcze blokują/wpływają na pracę innych wykonawców, dlatego proszę o niezwłoczną odpowiedź.
 
@@ -25,9 +26,12 @@ Zaznaczam, że błędy wykonawcze blokują/wpływają na pracę innych wykonawc�
 1. Fugi zostały wykonane niestarannie:
    *  W gorsecikach miejscami nie było fugi wcale, miejscami była tak cienka warstwa, że wypadała w trakcie mycia. Dotyczyło to około 20 miejsc. Poprawiali to grzecznościowo panowie od lastryko, bo istniało ryzyko zalania płyty OSB.
    Fugi pod prysznicem w jednym miejscu nie było wcale — załączałem zdjęcie w SMS. Podobnie jak w przypadku gorsecików, musiało to być poprawione przez innych fachowców, bo istniało ryzyko zalania sąsiada. Załączam zdjęcie w trakcie prac - ubytków było ponad 2 razy tyle ile widać na zdjęciu.
-   ![](images/conv/fugi3 Medium.jpeg) ![](images/conv/IMG_8584 Medium.jpeg)
+   ![](images/conv/fugi3 Medium.jpeg) 
+   ![](images/conv/IMG_8584 Medium.jpeg)
    * Fugi w cokołach miejscami są nieumyte (płytki zabrudzone fugą), miejscami ich brakuje (zwłaszcza w rogach), w 2 miejscach było jej zbyt mało i wypadła dosłownie po przetarciu szmatką.
-   * Fugi gorsecików i cokołów nie zostały należycie umyte po układaniu. Zgodnie z normą UNI-11493 za mycie fug i okładzin po fugowaniu odpowiada osoba układająca okładziny. ![](images/conv/fugi1 Medium.jpeg)![](images/conv/fugi2 Medium.jpeg)
+   * Fugi gorsecików i cokołów nie zostały należycie umyte po układaniu. Zgodnie z normą UNI-11493 za mycie fug i okładzin po fugowaniu odpowiada osoba układająca okładziny. 
+   ![](images/conv/fugi1 Medium.jpeg)
+   ![](images/conv/fugi2 Medium.jpeg)
 1. Gorseciki nie zostały przycięte na brzegach, tak jak było to ustalone w projekcie, do którego miał pan dostęp jeszcze przed podpisaniem umowy. 
 1. Cztery gniazdka są na złej wysokości — niezgodnie z projektem.
 1. Cokoły nie zostały przyklejone na prawidłowej wysokości. Pomijając krzywą wylewkę (wg umowy podłoga miała być wyrównana), same cokoły nie trzymają jednej wysokości. Różnice dochodzą do 2 cm. Przez to nie można estetycznie wylać mikrocementu.
